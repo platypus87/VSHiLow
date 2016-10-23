@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hiLow", "hiLow\hiLow.pyproj", "{5A861C42-4A49-4E36-BA61-8740D998C7F1}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "hiLow2", "..\hiLow2\hiLow2\hiLow2.pyproj", "{A49F8E03-EDC1-482C-9E69-EB7F4FAB7865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A861C42-4A49-4E36-BA61-8740D998C7F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A861C42-4A49-4E36-BA61-8740D998C7F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49F8E03-EDC1-482C-9E69-EB7F4FAB7865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49F8E03-EDC1-482C-9E69-EB7F4FAB7865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
